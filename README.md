@@ -1,3 +1,12 @@
+# Project Overview
+![concentration-app](https://user-images.githubusercontent.com/51804052/171064863-08634de9-b121-40a8-ae89-cb4f2d4dab5a.gif)
+
+
+# Quick Start Guide
+1. In a new terminal window enter: "npm install"
+2. Then enter: "npm run start" into the same or new terminal window.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
